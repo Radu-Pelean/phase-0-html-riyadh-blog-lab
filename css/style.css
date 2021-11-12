@@ -6,21 +6,21 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  background: url(http://cdn.cnn.com/cnnnext/dam/assets/200924183413-dubai-9-1.jpg) center no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Segoe UI, Arial, sans-serif;
   font-size: 100%;
 }
 
 .wrapper {
   margin: 0 auto;
-  width: 60%;
+  width: 89%;
   padding-bottom: 40px;
 }
 
 #content {
-  padding: 20px;
+  padding: 200px;
   background: rgba(255,255,255,.85);
 }
 
